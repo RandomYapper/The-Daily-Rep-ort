@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Gym App Flutter
+# 🏋️‍♂️ The Daily Rep-ort
 
 > **A beautifully designed black-and-white, glassmorphic Flutter app for tracking workouts, counting push-ups with AI, logging diet with OCR, and managing your own fitness journey.**
 
